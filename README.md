@@ -2,8 +2,8 @@
   <img src="assets/icon.png" width="112" alt="Иконка NetNotch">
   <h1>NetNotch</h1>
   <p><strong>Музыка, файлы и системные индикаторы в чёлке MacBook</strong></p>
-  <p><a href="https://github.com/andruha2618/NetNotch/releases/download/v1.0.0/NetNotch-1.0.0-macOS.zip"><strong>Скачать NetNotch 1.0.0</strong></a> · <a href="https://github.com/andruha2618/NetNotch/releases">Все выпуски</a></p>
-  <p>macOS 14 и новее · Apple Silicon и Intel</p>
+  <p><a href="https://github.com/andruha2618/NetNotch/releases/download/v1.0.1/NetNotch-1.0.1-macOS.zip"><strong>Скачать NetNotch 1.0.1</strong></a> · <a href="https://github.com/andruha2618/NetNotch/releases">Все выпуски</a></p>
+  <p>macOS 13 и новее · Apple Silicon и Intel</p>
 </div>
 
 Нажми на чёлку, чтобы посмотреть, что играет, переключить трек или перемотать песню. Перетащи файл к верхнему краю, чтобы сохранить его на полке и забрать позже. Всё это доступно поверх текущего приложения.
@@ -17,7 +17,7 @@
 
 ## Установка
 
-1. Распакуй [NetNotch-1.0.0-macOS.zip](https://github.com/andruha2618/NetNotch/releases/download/v1.0.0/NetNotch-1.0.0-macOS.zip) и перенеси **NetNotch.app** в «Программы».
+1. Распакуй [NetNotch-1.0.1-macOS.zip](https://github.com/andruha2618/NetNotch/releases/download/v1.0.1/NetNotch-1.0.1-macOS.zip) и перенеси **NetNotch.app** в «Программы».
 2. Запусти приложение. Настройки открываются через значок NetNotch в строке меню.
 3. Для управления Spotify или Apple Music macOS может запросить разрешение на автоматизацию. Для переноса индикаторов громкости и яркости в чёлку может потребоваться «Универсальный доступ».
 
